@@ -1,0 +1,5 @@
+- 👋 Hi, I’m tom
+- 👀 I’m interested in enterprise informatization
+- 🌱 I’m currently learning go
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me jqb44179@gmail.com
